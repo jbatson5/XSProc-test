@@ -6,6 +6,7 @@ M. L. Williams, L. M. Petrie, R. A. Lefebvre, K. T. Clarno, J. P.
 Lefebvre, U. Merturyek, D. Wiarda, and B. T. Rearden
 
 ABSTRACT
+~~~~~~~~
 
 The modern material and cross section processing module of SCALE
 (XSProc) was developed for the 6.2 release to prepare data for
@@ -32,6 +33,7 @@ amounts of data that are not needed for a particular calculation.
 
 
 ACKNOWLEDGMENTS
+~~~~~~~~~~~~~~~
 
 XSProc has evolved from the concept of a Material Information Processor
 library (MIPLIB) that used alphanumeric material specifications, which
